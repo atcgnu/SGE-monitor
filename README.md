@@ -1,2 +1,3 @@
-# gdresearch
-gdresearch, a pipeline for `genetic disease` research created by `Yulan Chen`
+# SGE-monitor
+used for SGE monitoring, created by `Yulan Chen`
+includ three parts, `storage`, `job`, `stat`
